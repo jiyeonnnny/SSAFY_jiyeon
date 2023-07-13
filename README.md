@@ -9,3 +9,6 @@
 - 현 활동: SSAFY 10기 교육생
 
 - contact: dqk8632@naver.com
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonnnny)](https://github.com/anuraghazra/github-readme-stats)
