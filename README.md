@@ -15,4 +15,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dqk8632@naver.com)](https://solved.ac/dqk8632@naver.com/)
 
+
+# Tech Stack 
 ![Python](https://img.shields.io/badge/python-0098FF.svg?&style=for-the-badge&logo=python&logoColor=white)
