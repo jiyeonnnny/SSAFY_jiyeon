@@ -14,3 +14,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonnnny)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dqk8632@naver.com)](https://solved.ac/dqk8632@naver.com/)
+
+![Java](https://img.shields.io/badge/python-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
